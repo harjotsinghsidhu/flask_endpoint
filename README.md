@@ -1,2 +1,2 @@
 # flask_endpoint
-Flask-endpoint app and test
+Flask-endpoint simple app and test cases using python, unittest, json.
